@@ -1,0 +1,33 @@
+#about {
+  padding-top: 4rem;
+  
+}
+
+.jumbotron {
+  padding-top: 7rem;
+  background-image: url(img/Tekom1.jpeg);
+  width: 1290px;
+  background-size: cover;
+  height: 1000px;
+  background-position: center;
+}
+
+#projects {
+  padding-top: 4rem;
+  background-size: auto;
+  background-color: #88f0b0;
+}
+
+#contact {
+  padding: 3 rem;
+  background-color: #bbe3f5;
+  margin-bottom: auto;
+}
+
+footer {
+  background-color: #0b0c0c;
+}
+
+section {
+  padding-top: 5rem;
+}
